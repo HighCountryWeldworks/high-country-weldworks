@@ -24,7 +24,7 @@ This website showcases the craftsmanship, services, and story behind High Countr
 ## 🖼️ Website Preview
 
 ### 🏠 Homepage
-!Homepage Preview
+![image](https://github.com/user-attachments/assets/ffcb93c0-f35d-4bf1-a565-3106e0ddbbf5)
 
 ### 🛠️ Services Section
 !Services Preview
