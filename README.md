@@ -21,15 +21,12 @@ This website showcases the craftsmanship, services, and story behind High Countr
 
 ---
 
-## 🖼️ Website Preview
-
-### 🏠 Homepage
 ![image](https://github.com/user-attachments/assets/ffcb93c0-f35d-4bf1-a565-3106e0ddbbf5)
 
-### 🛠️ Services Section
-!Services Preview
+🛠️ Services Section
+WeldWorks.mp4
 
-### 🖼️ Portfolio Section
+Portfolio Section
 !Portfolio Preview
 
 > _Note: Replace the image paths with actual screenshots of your site once available._
